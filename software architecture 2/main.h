@@ -7,6 +7,7 @@
 #include <string>
 #include <list>
 #include <iostream>
+#include <algorithm>
 
 
 using namespace std;
@@ -14,6 +15,7 @@ using namespace std;
 void testEx1();
 void testEx2();
 void testEx2_2();
+void testEx3();
 
 #endif // !1
 
