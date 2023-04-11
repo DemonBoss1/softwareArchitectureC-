@@ -16,6 +16,7 @@ void testEx1();
 void testEx2();
 void testEx2_2();
 void testEx3();
+void testEx4();
 
 #endif // !1
 
