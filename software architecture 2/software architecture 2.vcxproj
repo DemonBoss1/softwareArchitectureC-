@@ -132,6 +132,7 @@
     <ClCompile Include="Ex2.cpp" />
     <ClCompile Include="Ex3.cpp" />
     <ClCompile Include="Ex4.cpp" />
+    <ClCompile Include="factoryMethod.cpp" />
     <ClCompile Include="main.cpp" />
   </ItemGroup>
   <ItemGroup>

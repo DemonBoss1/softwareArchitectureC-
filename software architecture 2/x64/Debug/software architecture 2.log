@@ -1,2 +1,4 @@
-﻿  Ex4.cpp
+﻿  factoryMethod.cpp
+C:\Users\Дмитрий\OneDrive\Рабочий стол\Учеба\software architecture\software architecture 2\software architecture 2\factoryMethod.cpp(182): warning C4715: factoryMethod::NYPizzaStore::createPizza: значение возвращается не при всех путях выполнения
+C:\Users\Дмитрий\OneDrive\Рабочий стол\Учеба\software architecture\software architecture 2\software architecture 2\factoryMethod.cpp(165): warning C4715: factoryMethod::ChicagoPizzaStore::createPizza: значение возвращается не при всех путях выполнения
   software architecture 2.vcxproj -> C:\Users\Дмитрий\OneDrive\Рабочий стол\Учеба\software architecture\software architecture 2\x64\Debug\software architecture 2.exe

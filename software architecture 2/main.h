@@ -8,6 +8,7 @@
 #include <list>
 #include <iostream>
 #include <algorithm>
+#include <vector>
 
 
 using namespace std;
@@ -17,6 +18,8 @@ void testEx2();
 void testEx2_2();
 void testEx3();
 void testEx4();
-
+namespace factoryMethod {
+	void testEx5();
+}
 #endif // !1
 
