@@ -2,6 +2,6 @@
 
 int main() {
 	setlocale(LC_ALL, "Rus");
-	//testEx4();
-	factoryMethod::testEx5();
+	testEx6();
+	//factoryMethod::testEx5();
 }
