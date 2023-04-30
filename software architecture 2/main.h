@@ -21,6 +21,9 @@ void testEx4();
 namespace factoryMethod {
 	void testEx5();
 }
+
 void testEx6();
+
+void testEx7();
 #endif // !1
 

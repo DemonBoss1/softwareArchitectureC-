@@ -9,7 +9,9 @@ private:
 		boiled = false;
 	}
 	ChocolateBoiler(const ChocolateBoiler&);
-	ChocolateBoiler& operator=(ChocolateBoiler&);
+	ChocolateBoiler& operator = (ChocolateBoiler& other) {
+		return other;
+	}
 public:
 	static ChocolateBoiler& getInstance() {
 		static ChocolateBoiler instance;

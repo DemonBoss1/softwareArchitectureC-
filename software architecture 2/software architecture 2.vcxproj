@@ -133,10 +133,14 @@
     <ClCompile Include="Ex3.cpp" />
     <ClCompile Include="Ex4.cpp" />
     <ClCompile Include="Ex6.cpp" />
+    <ClCompile Include="Ex7.cpp" />
+    <ClCompile Include="Ex8.cpp" />
     <ClCompile Include="factoryMethod.cpp" />
     <ClCompile Include="main.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="duck.h" />
+    <ClInclude Include="Ex7_Devices.h" />
     <ClInclude Include="main.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
