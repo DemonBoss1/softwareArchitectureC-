@@ -25,5 +25,6 @@ namespace factoryMethod {
 void testEx6();
 
 void testEx7();
+void testEx8();
 #endif // !1
 
